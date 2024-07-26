@@ -17,3 +17,9 @@ Payment Calculation: Depending on the payment method, the program calculates the
 Receipt Generation: The program generates and displays a detailed receipt, including a list of previous claims.
 
 Data Storage: All input values and the total insurance premium are stored, and the next policy number is incremented.
+.
+.
+
+Customer Data Management in JavaScript
+
+This JavaScript program manages customer data for a motel, including personal details, room preferences, and stay duration. It calculates the customer's age and stay length, then generates a formatted summary for easy reference, ensuring efficient handling of guest information and preferences.
